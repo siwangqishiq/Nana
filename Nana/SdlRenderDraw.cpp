@@ -30,7 +30,7 @@ public:
         SDL_SetRenderDrawColor(renderer, 255, 0, 0, 255);
         SDL_RenderDrawLine(renderer, 100, 100, 500, 500);
         
-        //SDL_render
+        SDL_render
     }
     
     void draw_line(int x , int y){
